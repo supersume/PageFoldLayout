@@ -11,7 +11,7 @@ using Android.Views;
 using Android.Widget;
 using Android.Support.V4.View;
 
-namespace PageFoldLayout
+namespace Murmur.Pagefoldlayout
 {
     public class PageFoldTransformer : Java.Lang.Object, ViewPager.IPageTransformer
     {
